@@ -520,7 +520,7 @@
     </fields>
     <fields>
         <fullName>UpsellOpportunity__c</fullName>
-        <description>Demo descriptionssss</description>
+        <description>Demo descriptionssssoo</description>
         <externalId>false</externalId>
         <label>Upsell Opportunity</label>
         <required>false</required>
